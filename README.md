@@ -1,2 +1,2 @@
 # text_summarizer
-A python script to summarize texts from a PDF file
+A python script to summarize text from a PDF file
